@@ -1,14 +1,10 @@
-this librarys are made based on a this dimensions of raspberry file
-http://www.raspiworld.com/images/other/drawings/Raspberry-Pi-1-2-3-Model-B.pdf
+Forked for upgrade from https://github.com/lukaneco/Raspberry-Pi-3-library-for-kicad
+Big thanks to lukaneco for his great job on Raspberry 3 version.
 
-If you need help, comment and I'll answer as quickly as possible
+//editing - WIP
 
-https://i.imgur.com/jruPSif.png
+These are basic Raspberry Pi 4 schematic symbols and 3D footprints to be used on KiCad.
 
-![alt text](https://i.imgur.com/jruPSif.png)
+If you find any errors or problems please send your feedback. Thanks!
 
-https://i.imgur.com/ugdHz6m.png
-
-![alt text](https://i.imgur.com/ugdHz6m.png)
-
-based on the library of https://github.com/Tinkerforge but this is more useful for me
+//add images when done
